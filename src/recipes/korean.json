@@ -1,0 +1,1930 @@
+{
+    "recipes": [
+      {
+        "vegetarian": true,
+        "vegan": true,
+        "glutenFree": false,
+        "dairyFree": true,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "lowFodmap": false,
+        "weightWatcherSmartPoints": 12,
+        "gaps": "no",
+        "preparationMinutes": -1,
+        "cookingMinutes": -1,
+        "aggregateLikes": 40,
+        "healthScore": 41,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 208.57,
+        "extendedIngredients": [
+          {
+            "id": 99031,
+            "aisle": "Ethnic Foods",
+            "image": "dangmyeon.png",
+            "consistency": "SOLID",
+            "name": "sweet potato vermicelli",
+            "nameClean": "sweet potato vermicelli",
+            "original": "8 ounces sweet potato vermicelli noodles",
+            "originalName": "sweet potato vermicelli noodles",
+            "amount": 8,
+            "unit": "ounces",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 8,
+                "unitShort": "oz",
+                "unitLong": "ounces"
+              },
+              "metric": {
+                "amount": 226.796,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 11294,
+            "aisle": "Produce",
+            "image": "sweet-onion.png",
+            "consistency": "SOLID",
+            "name": "sweet onion",
+            "nameClean": "maui onion",
+            "original": "1 sweet onion, sliced into thin strips",
+            "originalName": "sweet onion, sliced into thin strips",
+            "amount": 1,
+            "unit": "",
+            "meta": [
+              "sweet",
+              "sliced into thin strips"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11215,
+            "aisle": "Produce",
+            "image": "garlic.png",
+            "consistency": "SOLID",
+            "name": "garlic",
+            "nameClean": "garlic",
+            "original": "2 cloves garlic, finely chopped",
+            "originalName": "garlic, finely chopped",
+            "amount": 2,
+            "unit": "cloves",
+            "meta": [
+              "finely chopped"
+            ],
+            "measures": {
+              "us": {
+                "amount": 2,
+                "unitShort": "cloves",
+                "unitLong": "cloves"
+              },
+              "metric": {
+                "amount": 2,
+                "unitShort": "cloves",
+                "unitLong": "cloves"
+              }
+            }
+          },
+          {
+            "id": 11457,
+            "aisle": "Produce",
+            "image": "spinach.jpg",
+            "consistency": "SOLID",
+            "name": "baby spinach",
+            "nameClean": "baby spinach",
+            "original": "1/2 pound baby spinach, parboiled",
+            "originalName": "baby spinach, parboiled",
+            "amount": 0.5,
+            "unit": "pound",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 0.5,
+                "unitShort": "lb",
+                "unitLong": "pounds"
+              },
+              "metric": {
+                "amount": 226.796,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 11124,
+            "aisle": "Produce",
+            "image": "sliced-carrot.png",
+            "consistency": "SOLID",
+            "name": "carrots",
+            "nameClean": "carrot",
+            "original": "2 carrots, julienned",
+            "originalName": "carrots, julienned",
+            "amount": 2,
+            "unit": "",
+            "meta": [
+              "julienned"
+            ],
+            "measures": {
+              "us": {
+                "amount": 2,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 2,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11291,
+            "aisle": "Produce",
+            "image": "spring-onions.jpg",
+            "consistency": "SOLID",
+            "name": "scallions",
+            "nameClean": "spring onions",
+            "original": "3 scallions, chopped",
+            "originalName": "scallions, chopped",
+            "amount": 3,
+            "unit": "",
+            "meta": [
+              "chopped"
+            ],
+            "measures": {
+              "us": {
+                "amount": 3,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 3,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11260,
+            "aisle": "Produce",
+            "image": "mushrooms.png",
+            "consistency": "SOLID",
+            "name": "mushrooms",
+            "nameClean": "fresh mushrooms",
+            "original": "5 mushrooms, sliced (I like to use creminis)",
+            "originalName": "mushrooms, sliced (I like to use creminis)",
+            "amount": 5,
+            "unit": "",
+            "meta": [
+              "sliced",
+              "(I like to use creminis)"
+            ],
+            "measures": {
+              "us": {
+                "amount": 5,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 5,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11477,
+            "aisle": "Produce",
+            "image": "zucchini.jpg",
+            "consistency": "SOLID",
+            "name": "zucchini",
+            "nameClean": "zucchini",
+            "original": "1/2 cup zucchini, sliced into half-moons",
+            "originalName": "zucchini, sliced into half-moons",
+            "amount": 0.5,
+            "unit": "cup",
+            "meta": [
+              "sliced into half-moons"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.5,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 118.294,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 4053,
+            "aisle": "Oil, Vinegar, Salad Dressing",
+            "image": "olive-oil.jpg",
+            "consistency": "LIQUID",
+            "name": "olive oil",
+            "nameClean": "olive oil",
+            "original": "2 tablespoons olive oil",
+            "originalName": "olive oil",
+            "amount": 2,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 2,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 2,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 4058,
+            "aisle": "Ethnic Foods",
+            "image": "sesame-oil.png",
+            "consistency": "LIQUID",
+            "name": "sesame oil",
+            "nameClean": "sesame oil",
+            "original": "2 tablespoons sesame oil",
+            "originalName": "sesame oil",
+            "amount": 2,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 2,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 2,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 16124,
+            "aisle": "Ethnic Foods;Condiments",
+            "image": "soy-sauce.jpg",
+            "consistency": "LIQUID",
+            "name": "soy sauce",
+            "nameClean": "soy sauce",
+            "original": "3 tablespoons soy sauce",
+            "originalName": "soy sauce",
+            "amount": 3,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 3,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 3,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 19335,
+            "aisle": "Baking",
+            "image": "sugar-in-bowl.png",
+            "consistency": "SOLID",
+            "name": "sugar",
+            "nameClean": "sugar",
+            "original": "1 teaspoon sugar",
+            "originalName": "sugar",
+            "amount": 1,
+            "unit": "teaspoon",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "tsp",
+                "unitLong": "teaspoon"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "tsp",
+                "unitLong": "teaspoon"
+              }
+            }
+          },
+          {
+            "id": 2047,
+            "aisle": "Spices and Seasonings",
+            "image": "salt.jpg",
+            "consistency": "SOLID",
+            "name": "salt",
+            "nameClean": "table salt",
+            "original": "Salt to taste",
+            "originalName": "Salt to taste",
+            "amount": 1,
+            "unit": "serving",
+            "meta": [
+              "to taste"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "serving",
+                "unitLong": "serving"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "serving",
+                "unitLong": "serving"
+              }
+            }
+          }
+        ],
+        "id": 637440,
+        "title": "Chapchae (Korean Stir-Fried Noodles)",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "https://www.foodista.com/recipe/RSDBG48H/chapchae-korean-stir-fried-noodles",
+        "image": "https://spoonacular.com/recipeImages/637440-556x370.jpg",
+        "imageType": "jpg",
+        "summary": "If you want to add more <b>dairy free, lacto ovo vegetarian, and vegan</b> recipes to your recipe box, Chapchae (Korean Stir-Fried Noodles) might be a recipe you should try. This recipe makes 4 servings with <b>397 calories</b>, <b>5g of protein</b>, and <b>15g of fat</b> each. For <b>$2.09 per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. It works well as a Korean side dish. If you have mushrooms, , scallions, and a few other ingredients on hand, you can make it. This recipe from Foodista has 40 fans. From preparation to the plate, this recipe takes roughly <b>roughly 45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 91%</b>, which is spectacular. Similar recipes include <a href=\"https://spoonacular.com/recipes/korean-stir-fried-noodles-chapchae-604806\">Korean Stir-Fried Noodles (Chapchae)</a>, <a href=\"https://spoonacular.com/recipes/korean-stir-fried-sweet-potato-noodles-859111\">Korean Stir-Fried Sweet Potato Noodles</a>, and <a href=\"https://spoonacular.com/recipes/japchae-korean-stir-fried-sweet-potato-noodles-161270\">Japchae (Korean Stir-Fried Sweet Potato Noodles)</a>.",
+        "cuisines": [
+          "Korean",
+          "Asian"
+        ],
+        "dishTypes": [
+          "side dish"
+        ],
+        "diets": [
+          "dairy free",
+          "lacto ovo vegetarian",
+          "vegan"
+        ],
+        "occasions": [],
+        "instructions": "Cook noodles according to package directions\nIn a large pan or wok over medium heat, heat olive oil and 1 Tbsp sesame oil\nAdd onion slices and garlic and saut for about 1 min\nAdd rest of vegetables and cook for 4-5 min, until the vegetables are half-cooked and still a bit crispy\nTurn heat to low and add cooked noodles, soy sauce, sugar, and the remaining sesame oil\nMix to combine and cook for another 2 min\nAdd salt or more soy sauce if needed (or if you want it a bit sweeter, add a touch more sugar)\nIf using sesame seeds, add them at finish",
+        "analyzedInstructions": [
+          {
+            "name": "",
+            "steps": [
+              {
+                "number": 1,
+                "step": "Cook noodles according to package directions",
+                "ingredients": [
+                  {
+                    "id": 20420,
+                    "name": "pasta",
+                    "localizedName": "pasta",
+                    "image": "fusilli.jpg"
+                  }
+                ],
+                "equipment": []
+              },
+              {
+                "number": 2,
+                "step": "In a large pan or wok over medium heat, heat olive oil and 1 Tbsp sesame oil",
+                "ingredients": [
+                  {
+                    "id": 4058,
+                    "name": "sesame oil",
+                    "localizedName": "sesame oil",
+                    "image": "sesame-oil.png"
+                  },
+                  {
+                    "id": 4053,
+                    "name": "olive oil",
+                    "localizedName": "olive oil",
+                    "image": "olive-oil.jpg"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "pan.png"
+                  },
+                  {
+                    "id": 404666,
+                    "name": "wok",
+                    "localizedName": "wok",
+                    "image": "wok.png"
+                  }
+                ]
+              },
+              {
+                "number": 3,
+                "step": "Add onion slices and garlic and saut for about 1 min",
+                "ingredients": [
+                  {
+                    "id": 11215,
+                    "name": "garlic",
+                    "localizedName": "garlic",
+                    "image": "garlic.png"
+                  },
+                  {
+                    "id": 11282,
+                    "name": "onion",
+                    "localizedName": "onion",
+                    "image": "brown-onion.png"
+                  }
+                ],
+                "equipment": []
+              },
+              {
+                "number": 4,
+                "step": "Add rest of vegetables and cook for 4-5 min, until the vegetables are half-cooked and still a bit crispy",
+                "ingredients": [
+                  {
+                    "id": 11583,
+                    "name": "vegetable",
+                    "localizedName": "vegetable",
+                    "image": "mixed-vegetables.png"
+                  }
+                ],
+                "equipment": [],
+                "length": {
+                  "number": 5,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 5,
+                "step": "Turn heat to low and add cooked noodles, soy sauce, sugar, and the remaining sesame oil",
+                "ingredients": [
+                  {
+                    "id": 20421,
+                    "name": "cooked pasta",
+                    "localizedName": "cooked pasta",
+                    "image": "fusilli.jpg"
+                  },
+                  {
+                    "id": 4058,
+                    "name": "sesame oil",
+                    "localizedName": "sesame oil",
+                    "image": "sesame-oil.png"
+                  },
+                  {
+                    "id": 16124,
+                    "name": "soy sauce",
+                    "localizedName": "soy sauce",
+                    "image": "soy-sauce.jpg"
+                  },
+                  {
+                    "id": 19335,
+                    "name": "sugar",
+                    "localizedName": "sugar",
+                    "image": "sugar-in-bowl.png"
+                  }
+                ],
+                "equipment": []
+              },
+              {
+                "number": 6,
+                "step": "Mix to combine and cook for another 2 min",
+                "ingredients": [],
+                "equipment": []
+              },
+              {
+                "number": 7,
+                "step": "Add salt or more soy sauce if needed (or if you want it a bit sweeter, add a touch more sugar)",
+                "ingredients": [
+                  {
+                    "id": 16124,
+                    "name": "soy sauce",
+                    "localizedName": "soy sauce",
+                    "image": "soy-sauce.jpg"
+                  },
+                  {
+                    "id": 19335,
+                    "name": "sugar",
+                    "localizedName": "sugar",
+                    "image": "sugar-in-bowl.png"
+                  },
+                  {
+                    "id": 2047,
+                    "name": "salt",
+                    "localizedName": "salt",
+                    "image": "salt.jpg"
+                  }
+                ],
+                "equipment": []
+              },
+              {
+                "number": 8,
+                "step": "If using sesame seeds, add them at finish",
+                "ingredients": [
+                  {
+                    "id": 12023,
+                    "name": "sesame seeds",
+                    "localizedName": "sesame seeds",
+                    "image": "sesame-seeds.png"
+                  }
+                ],
+                "equipment": []
+              }
+            ]
+          }
+        ],
+        "originalId": null,
+        "spoonacularSourceUrl": "https://spoonacular.com/chapchae-korean-stir-fried-noodles-637440"
+      },
+      {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": false,
+        "dairyFree": false,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "lowFodmap": false,
+        "weightWatcherSmartPoints": 20,
+        "gaps": "no",
+        "preparationMinutes": -1,
+        "cookingMinutes": -1,
+        "aggregateLikes": 58,
+        "healthScore": 1,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 122.1,
+        "extendedIngredients": [
+          {
+            "id": 1001,
+            "aisle": "Milk, Eggs, Other Dairy",
+            "image": "butter-sliced.jpg",
+            "consistency": "SOLID",
+            "name": "butter",
+            "nameClean": "butter",
+            "original": "100 grams Melted Butter",
+            "originalName": "Melted Butter",
+            "amount": 100,
+            "unit": "grams",
+            "meta": [
+              "melted"
+            ],
+            "measures": {
+              "us": {
+                "amount": 3.527,
+                "unitShort": "oz",
+                "unitLong": "ounces"
+              },
+              "metric": {
+                "amount": 100,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 1017,
+            "aisle": "Cheese",
+            "image": "cream-cheese.jpg",
+            "consistency": "SOLID",
+            "name": "cream cheese",
+            "nameClean": "cream cheese",
+            "original": "250 grams Cream cheese",
+            "originalName": "Cream cheese",
+            "amount": 250,
+            "unit": "grams",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 8.818,
+                "unitShort": "oz",
+                "unitLong": "ounces"
+              },
+              "metric": {
+                "amount": 250,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 19348,
+            "aisle": "Frozen;Condiments",
+            "image": "chocolate-glaze.png",
+            "consistency": "SOLID",
+            "name": "fudge ice cream topping",
+            "nameClean": "fudge ice cream topping",
+            "original": "1 cup Non-dairy topping cream",
+            "originalName": "Non-dairy topping cream",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 19177,
+            "aisle": "Baking",
+            "image": "gelatin-powder.jpg",
+            "consistency": "SOLID",
+            "name": "gelatin",
+            "nameClean": "gelatin",
+            "original": "1 tablespoon Gelatin",
+            "originalName": "Gelatin",
+            "amount": 1,
+            "unit": "tablespoon",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "Tbsp",
+                "unitLong": "Tbsp"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "Tbsp",
+                "unitLong": "Tbsp"
+              }
+            }
+          },
+          {
+            "id": 1016973,
+            "aisle": "Ethnic Foods",
+            "image": "chili-paste.png",
+            "consistency": "LIQUID",
+            "name": "korean chili paste",
+            "nameClean": "gochujang",
+            "original": "5 1/2 tablespoons Korean Honey Citron Tea paste",
+            "originalName": "Korean Honey Citron Tea paste",
+            "amount": 5.5,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 5.5,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 5.5,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 9152,
+            "aisle": "Produce",
+            "image": "lemon-juice.jpg",
+            "consistency": "LIQUID",
+            "name": "lemon juice",
+            "nameClean": "lemon juice",
+            "original": "1 tablespoon Lemon juice",
+            "originalName": "Lemon juice",
+            "amount": 1,
+            "unit": "tablespoon",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "Tbsp",
+                "unitLong": "Tbsp"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "Tbsp",
+                "unitLong": "Tbsp"
+              }
+            }
+          },
+          {
+            "id": 19172,
+            "aisle": "Baking",
+            "image": "green-jello.jpg",
+            "consistency": "SOLID",
+            "name": "lime gelatin dessert mix",
+            "nameClean": "lemon flavored gelatin",
+            "original": "1 1/2 tablespoons tsp Gelatin mix with 2 water",
+            "originalName": "tsp Gelatin mix with 2 water",
+            "amount": 1.5,
+            "unit": "tablespoons",
+            "meta": [
+              "with 2 water"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1.5,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 1.5,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 10018173,
+            "aisle": "Sweet Snacks",
+            "image": "marie-biscuit.jpg",
+            "consistency": "SOLID",
+            "name": "marie biscuits",
+            "nameClean": "marie biscuits",
+            "original": "150 grams Marie biscuits (crushed)",
+            "originalName": "Marie biscuits (crushed)",
+            "amount": 150,
+            "unit": "grams",
+            "meta": [
+              "crushed",
+              "()"
+            ],
+            "measures": {
+              "us": {
+                "amount": 5.291,
+                "unitShort": "oz",
+                "unitLong": "ounces"
+              },
+              "metric": {
+                "amount": 150,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 1077,
+            "aisle": "Milk, Eggs, Other Dairy",
+            "image": "milk.png",
+            "consistency": "LIQUID",
+            "name": "milk",
+            "nameClean": "milk",
+            "original": "60 milliliters Fresh milk",
+            "originalName": "Fresh milk",
+            "amount": 60,
+            "unit": "milliliters",
+            "meta": [
+              "fresh"
+            ],
+            "measures": {
+              "us": {
+                "amount": 2.029,
+                "unitShort": "fl. oz",
+                "unitLong": "fl. ozs"
+              },
+              "metric": {
+                "amount": 60,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 19335,
+            "aisle": "Baking",
+            "image": "sugar-in-bowl.png",
+            "consistency": "SOLID",
+            "name": "sugar",
+            "nameClean": "sugar",
+            "original": "3 tablespoons Sugar",
+            "originalName": "Sugar",
+            "amount": 3,
+            "unit": "tablespoons",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 3,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              },
+              "metric": {
+                "amount": 3,
+                "unitShort": "Tbsps",
+                "unitLong": "Tbsps"
+              }
+            }
+          },
+          {
+            "id": 14412,
+            "aisle": "Beverages",
+            "image": "water.png",
+            "consistency": "LIQUID",
+            "name": "water",
+            "nameClean": "water",
+            "original": "•8 cups of water",
+            "originalName": "of water",
+            "amount": 8,
+            "unit": "cups",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 8,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 1.893,
+                "unitShort": "l",
+                "unitLong": "liters"
+              }
+            }
+          }
+        ],
+        "id": 649056,
+        "title": "Korean Honey Citron Tea Cheesecake",
+        "readyInMinutes": 45,
+        "servings": 8,
+        "sourceUrl": "http://www.foodista.com/recipe/PB5GFPYT/yuja-korean-honey-citron-tea-cheesecake",
+        "image": "https://spoonacular.com/recipeImages/649056-556x370.jpg",
+        "imageType": "jpg",
+        "summary": "Korean Honey Citron Tea Cheesecake might be just the <b>Korean</b> recipe you are searching for. For <b>$1.22 per serving</b>, this recipe <b>covers 7%</b> of your daily requirements of vitamins and minerals. One serving contains <b>451 calories</b>, <b>6g of protein</b>, and <b>26g of fat</b>. 58 people have made this recipe and would make it again. Head to the store and pick up sugar, milk, marie biscuits, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 26%</b>. This score is not so great. Try <a href=\"https://spoonacular.com/recipes/tartelettes-au-citron-53422\">Tartelettes Au Citron</a>, <a href=\"https://spoonacular.com/recipes/confiture-dolives-et-citron-53423\">Confiture D'olives Et Citron</a>, and <a href=\"https://spoonacular.com/recipes/carrs-au-citron-recette-546806\">Carrés au citron Recette</a> for similar recipes.",
+        "cuisines": [
+          "Korean",
+          "Asian"
+        ],
+        "dishTypes": [
+          "side dish"
+        ],
+        "diets": [],
+        "occasions": [],
+        "instructions": "<ol><li>Line a 23cm round pan (with removable base) set aside.</li><li>Combine crushed digestive biscuit crumbs and melted butter together in a mixing bowl.</li><li>Press the biscuit crumbs onto the base of the prepared pan and put it in the refrigerator for later use.</li><li>Measure water into a bowl and sprinkle in the gelatin (without stirring with a spoon). Set aside to allow the gelatin to swell (few mins) before setting the bowl over a pot of simmering hot water. Stir with a spoon and once  the gelatin melts, remove the bowl from the pot and set aside to cool to room temperature.</li><li>Whisk non-dairy topping cream until peak form (not too stiff), set aside.</li><li>In another mixing bowl, beat cream cheese and sugar until smooth, then gradually add in milk until combined.</li><li>Add lemon juice, honey citron tea paste, mix to combine and add gelatin solution, mix well.</li><li>Fold in whipped non-dairy topping cream, with a hand whisk.</li><li>Pour cream cheese mixture on the prepared cake tin and refrigerate for at least 4 hours until set.</li><li>To make the topping, heat the gelatin (method same as above) and stir in honey citron tea paste, mix well and leave to cool.</li><li>Spread the honey citron tea paste thinly and evenly on top of the cheesecake.</li><li>Refrigerate the cheese cake until it is ready to serve.</li></ol>",
+        "analyzedInstructions": [
+          {
+            "name": "",
+            "steps": [
+              {
+                "number": 1,
+                "step": "Line a 23cm round pan (with removable base) set aside.",
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "name": "base",
+                    "localizedName": "base",
+                    "image": ""
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "pan.png"
+                  }
+                ]
+              },
+              {
+                "number": 2,
+                "step": "Combine crushed digestive biscuit crumbs and melted butter together in a mixing bowl.Press the biscuit crumbs onto the base of the prepared pan and put it in the refrigerator for later use.Measure water into a bowl and sprinkle in the gelatin (without stirring with a spoon). Set aside to allow the gelatin to swell (few mins) before setting the bowl over a pot of simmering hot water. Stir with a spoon and once  the gelatin melts, remove the bowl from the pot and set aside to cool to room temperature.",
+                "ingredients": [
+                  {
+                    "id": 18617,
+                    "name": "graham crackers",
+                    "localizedName": "graham crackers",
+                    "image": "graham-crackers.jpg"
+                  },
+                  {
+                    "id": 18009,
+                    "name": "biscuits",
+                    "localizedName": "biscuits",
+                    "image": "buttermilk-biscuits.jpg"
+                  },
+                  {
+                    "id": 19177,
+                    "name": "gelatin",
+                    "localizedName": "gelatin",
+                    "image": "gelatin-powder.jpg"
+                  },
+                  {
+                    "id": 1001,
+                    "name": "butter",
+                    "localizedName": "butter",
+                    "image": "butter-sliced.jpg"
+                  },
+                  {
+                    "id": 14412,
+                    "name": "water",
+                    "localizedName": "water",
+                    "image": "water.png"
+                  },
+                  {
+                    "id": 0,
+                    "name": "base",
+                    "localizedName": "base",
+                    "image": ""
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 405907,
+                    "name": "mixing bowl",
+                    "localizedName": "mixing bowl",
+                    "image": "mixing-bowl.jpg"
+                  },
+                  {
+                    "id": 404645,
+                    "name": "frying pan",
+                    "localizedName": "frying pan",
+                    "image": "pan.png"
+                  },
+                  {
+                    "id": 404752,
+                    "name": "pot",
+                    "localizedName": "pot",
+                    "image": "stock-pot.jpg"
+                  }
+                ]
+              },
+              {
+                "number": 3,
+                "step": "Whisk non-dairy topping cream until peak form (not too stiff), set aside.In another mixing bowl, beat cream cheese and sugar until smooth, then gradually add in milk until combined.",
+                "ingredients": [
+                  {
+                    "id": 1017,
+                    "name": "cream cheese",
+                    "localizedName": "cream cheese",
+                    "image": "cream-cheese.jpg"
+                  },
+                  {
+                    "id": 1053,
+                    "name": "cream",
+                    "localizedName": "cream",
+                    "image": "fluid-cream.jpg"
+                  },
+                  {
+                    "id": 19335,
+                    "name": "sugar",
+                    "localizedName": "sugar",
+                    "image": "sugar-in-bowl.png"
+                  },
+                  {
+                    "id": 1077,
+                    "name": "milk",
+                    "localizedName": "milk",
+                    "image": "milk.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 405907,
+                    "name": "mixing bowl",
+                    "localizedName": "mixing bowl",
+                    "image": "mixing-bowl.jpg"
+                  },
+                  {
+                    "id": 404661,
+                    "name": "whisk",
+                    "localizedName": "whisk",
+                    "image": "whisk.png"
+                  }
+                ]
+              },
+              {
+                "number": 4,
+                "step": "Add lemon juice, honey citron tea paste, mix to combine and add gelatin solution, mix well.Fold in whipped non-dairy topping cream, with a hand whisk.",
+                "ingredients": [
+                  {
+                    "id": 9152,
+                    "name": "lemon juice",
+                    "localizedName": "lemon juice",
+                    "image": "lemon-juice.jpg"
+                  },
+                  {
+                    "id": 19177,
+                    "name": "gelatin",
+                    "localizedName": "gelatin",
+                    "image": "gelatin-powder.jpg"
+                  },
+                  {
+                    "id": 10093702,
+                    "name": "citron",
+                    "localizedName": "citron",
+                    "image": "yuzu.png"
+                  },
+                  {
+                    "id": 1053,
+                    "name": "cream",
+                    "localizedName": "cream",
+                    "image": "fluid-cream.jpg"
+                  },
+                  {
+                    "id": 19296,
+                    "name": "honey",
+                    "localizedName": "honey",
+                    "image": "honey.png"
+                  },
+                  {
+                    "id": 14355,
+                    "name": "tea",
+                    "localizedName": "tea",
+                    "image": "tea-bags.jpg"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404661,
+                    "name": "whisk",
+                    "localizedName": "whisk",
+                    "image": "whisk.png"
+                  }
+                ]
+              },
+              {
+                "number": 5,
+                "step": "Pour cream cheese mixture on the prepared cake tin and refrigerate for at least 4 hours until set.To make the topping, heat the gelatin (method same as above) and stir in honey citron tea paste, mix well and leave to cool.",
+                "ingredients": [
+                  {
+                    "id": 1017,
+                    "name": "cream cheese",
+                    "localizedName": "cream cheese",
+                    "image": "cream-cheese.jpg"
+                  },
+                  {
+                    "id": 19177,
+                    "name": "gelatin",
+                    "localizedName": "gelatin",
+                    "image": "gelatin-powder.jpg"
+                  },
+                  {
+                    "id": 10093702,
+                    "name": "citron",
+                    "localizedName": "citron",
+                    "image": "yuzu.png"
+                  },
+                  {
+                    "id": 19296,
+                    "name": "honey",
+                    "localizedName": "honey",
+                    "image": "honey.png"
+                  },
+                  {
+                    "id": 14355,
+                    "name": "tea",
+                    "localizedName": "tea",
+                    "image": "tea-bags.jpg"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404747,
+                    "name": "cake form",
+                    "localizedName": "cake form",
+                    "image": "cake-pan.png"
+                  }
+                ],
+                "length": {
+                  "number": 240,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 6,
+                "step": "Spread the honey citron tea paste thinly and evenly on top of the cheesecake.Refrigerate the cheese cake until it is ready to serve.",
+                "ingredients": [
+                  {
+                    "id": 1041009,
+                    "name": "cheese",
+                    "localizedName": "cheese",
+                    "image": "cheddar-cheese.png"
+                  },
+                  {
+                    "id": 10093702,
+                    "name": "citron",
+                    "localizedName": "citron",
+                    "image": "yuzu.png"
+                  },
+                  {
+                    "id": 0,
+                    "name": "spread",
+                    "localizedName": "spread",
+                    "image": ""
+                  },
+                  {
+                    "id": 19296,
+                    "name": "honey",
+                    "localizedName": "honey",
+                    "image": "honey.png"
+                  },
+                  {
+                    "id": 14355,
+                    "name": "tea",
+                    "localizedName": "tea",
+                    "image": "tea-bags.jpg"
+                  }
+                ],
+                "equipment": []
+              }
+            ]
+          }
+        ],
+        "originalId": null,
+        "spoonacularSourceUrl": "https://spoonacular.com/korean-honey-citron-tea-cheesecake-649056"
+      },
+      {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": false,
+        "dairyFree": true,
+        "veryHealthy": true,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "lowFodmap": false,
+        "weightWatcherSmartPoints": 56,
+        "gaps": "no",
+        "preparationMinutes": -1,
+        "cookingMinutes": -1,
+        "aggregateLikes": 7,
+        "healthScore": 66,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 765.82,
+        "extendedIngredients": [
+          {
+            "id": 11457,
+            "aisle": "Produce",
+            "image": "spinach.jpg",
+            "consistency": "SOLID",
+            "name": "baby spinach",
+            "nameClean": "baby spinach",
+            "original": "3 cups fresh baby spinach",
+            "originalName": "fresh baby spinach",
+            "amount": 3,
+            "unit": "cups",
+            "meta": [
+              "fresh"
+            ],
+            "measures": {
+              "us": {
+                "amount": 3,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 709.764,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 11043,
+            "aisle": "Produce;Ethnic Foods",
+            "image": "bean-sprouts.jpg",
+            "consistency": "SOLID",
+            "name": "bean sprouts",
+            "nameClean": "bean sprouts",
+            "original": "1 1/2 cups bean sprouts",
+            "originalName": "bean sprouts",
+            "amount": 1.5,
+            "unit": "cups",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1.5,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 354.882,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 23572,
+            "aisle": "Frozen;Meat",
+            "image": "beef-cubes-raw.png",
+            "consistency": "SOLID",
+            "name": "beef",
+            "nameClean": "beef",
+            "original": "3/4 pound thin strips sirloin, rib eye or bulgogi beef",
+            "originalName": "thin strips sirloin, rib eye or bulgogi beef",
+            "amount": 0.75,
+            "unit": "pound",
+            "meta": [
+              "thin"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.75,
+                "unitShort": "lb",
+                "unitLong": "pounds"
+              },
+              "metric": {
+                "amount": 340.194,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 99169,
+            "aisle": "Bread",
+            "image": "bread-bowl.png",
+            "consistency": "SOLID",
+            "name": "bread bowls",
+            "nameClean": "bread bowls",
+            "original": "4 dolsot stone bowls (available at Asian markets)",
+            "originalName": "dolsot stone bowls (available at Asian markets)",
+            "amount": 4,
+            "unit": "",
+            "meta": [
+              "(available at Asian markets)"
+            ],
+            "measures": {
+              "us": {
+                "amount": 4,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 4,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11109,
+            "aisle": "Produce",
+            "image": "cabbage.jpg",
+            "consistency": "SOLID",
+            "name": "cabbage",
+            "nameClean": "cabbage",
+            "original": "10 ounces cabbage kimchi",
+            "originalName": "cabbage kimchi",
+            "amount": 10,
+            "unit": "ounces",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 10,
+                "unitShort": "oz",
+                "unitLong": "ounces"
+              },
+              "metric": {
+                "amount": 283.495,
+                "unitShort": "g",
+                "unitLong": "grams"
+              }
+            }
+          },
+          {
+            "id": 11124,
+            "aisle": "Produce",
+            "image": "sliced-carrot.png",
+            "consistency": "SOLID",
+            "name": "carrots",
+            "nameClean": "carrot",
+            "original": "1 cup carrots, julienned",
+            "originalName": "carrots, julienned",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [
+              "julienned"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 1125,
+            "aisle": "Milk, Eggs, Other Dairy",
+            "image": "egg-yolk.jpg",
+            "consistency": "SOLID",
+            "name": "egg yolks",
+            "nameClean": "egg yolk",
+            "original": "4 egg yolks",
+            "originalName": "egg yolks",
+            "amount": 4,
+            "unit": "",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 4,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 4,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11238,
+            "aisle": "Produce",
+            "image": "shiitake-mushrooms.png",
+            "consistency": "SOLID",
+            "name": "fresh shiitake mushrooms",
+            "nameClean": "shiitake mushrooms",
+            "original": "1 cup fresh shiitake mushrooms, thinly sliced",
+            "originalName": "fresh shiitake mushrooms, thinly sliced",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [
+              "fresh",
+              "thinly sliced"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 11215,
+            "aisle": "Produce",
+            "image": "garlic.png",
+            "consistency": "SOLID",
+            "name": "garlic clove",
+            "nameClean": "garlic",
+            "original": "1 garlic clove, minced",
+            "originalName": "garlic clove, minced",
+            "amount": 1,
+            "unit": "",
+            "meta": [
+              "minced"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "",
+                "unitLong": ""
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "",
+                "unitLong": ""
+              }
+            }
+          },
+          {
+            "id": 11291,
+            "aisle": "Produce",
+            "image": "spring-onions.jpg",
+            "consistency": "SOLID",
+            "name": "green onions",
+            "nameClean": "spring onions",
+            "original": "1 cup green onions, chopped",
+            "originalName": "green onions, chopped",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [
+              "chopped"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 99000,
+            "aisle": "Ethnic Foods",
+            "image": "dark-sauce.jpg",
+            "consistency": "SOLID",
+            "name": "korean barbecue marinade",
+            "nameClean": "korean bbq marinade",
+            "original": "1 cup Korean barbecue bulgogi marinade",
+            "originalName": "Korean barbecue bulgogi marinade",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 1016973,
+            "aisle": "Ethnic Foods",
+            "image": "chili-paste.png",
+            "consistency": "LIQUID",
+            "name": "red pepper paste",
+            "nameClean": "gochujang",
+            "original": "1/4 cup kochujang vinegared hot pepper paste",
+            "originalName": "kochujang vinegared hot pepper paste",
+            "amount": 0.25,
+            "unit": "cup",
+            "meta": [
+              "hot"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.25,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 59.147,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 2047,
+            "aisle": "Spices and Seasonings",
+            "image": "salt.jpg",
+            "consistency": "SOLID",
+            "name": "salt",
+            "nameClean": "table salt",
+            "original": "Pinch of salt",
+            "originalName": "Pinch of salt",
+            "amount": 1,
+            "unit": "pinch",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "pinch",
+                "unitLong": "pinch"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "pinch",
+                "unitLong": "pinch"
+              }
+            }
+          },
+          {
+            "id": 4058,
+            "aisle": "Ethnic Foods",
+            "image": "sesame-oil.png",
+            "consistency": "LIQUID",
+            "name": "sesame oil",
+            "nameClean": "sesame oil",
+            "original": "1/4 cup sesame oil",
+            "originalName": "sesame oil",
+            "amount": 0.25,
+            "unit": "cup",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 0.25,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 59.147,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 12023,
+            "aisle": "Ethnic Foods;Spices and Seasonings",
+            "image": "sesame-seeds.png",
+            "consistency": "SOLID",
+            "name": "sesame seeds",
+            "nameClean": "sesame seeds",
+            "original": "2 teaspoons toasted sesame seeds",
+            "originalName": "toasted sesame seeds",
+            "amount": 2,
+            "unit": "teaspoons",
+            "meta": [
+              "toasted"
+            ],
+            "measures": {
+              "us": {
+                "amount": 2,
+                "unitShort": "tsps",
+                "unitLong": "teaspoons"
+              },
+              "metric": {
+                "amount": 2,
+                "unitShort": "tsps",
+                "unitLong": "teaspoons"
+              }
+            }
+          },
+          {
+            "id": 10120052,
+            "aisle": "Pasta and Rice",
+            "image": "uncooked-white-rice.png",
+            "consistency": "SOLID",
+            "name": "short grain rice",
+            "nameClean": "short grain rice",
+            "original": "4 cups short grain white rice, cooked",
+            "originalName": "short grain white rice, cooked",
+            "amount": 4,
+            "unit": "cups",
+            "meta": [
+              "white",
+              "cooked"
+            ],
+            "measures": {
+              "us": {
+                "amount": 4,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 946.352,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 19335,
+            "aisle": "Baking",
+            "image": "sugar-in-bowl.png",
+            "consistency": "SOLID",
+            "name": "sugar",
+            "nameClean": "sugar",
+            "original": "Pinch of sugar",
+            "originalName": "Pinch of sugar",
+            "amount": 1,
+            "unit": "pinch",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "pinch",
+                "unitLong": "pinch"
+              },
+              "metric": {
+                "amount": 1,
+                "unitShort": "pinch",
+                "unitLong": "pinch"
+              }
+            }
+          },
+          {
+            "id": 10220054,
+            "aisle": "Pasta and Rice",
+            "image": "uncooked-white-rice.png",
+            "consistency": "SOLID",
+            "name": "sushi rice",
+            "nameClean": "sushi rice",
+            "original": "3 cups high grade Korean sushi rice",
+            "originalName": "high grade Korean sushi rice",
+            "amount": 3,
+            "unit": "cups",
+            "meta": [],
+            "measures": {
+              "us": {
+                "amount": 3,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 709.764,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 16213,
+            "aisle": "Refrigerated;Produce;Ethnic Foods",
+            "image": "tofu.png",
+            "consistency": "SOLID",
+            "name": "tofu",
+            "nameClean": "tofu",
+            "original": "3/4 cup firm tofu, rinsed and cut into 1-inch cubes",
+            "originalName": "firm tofu, rinsed and cut into 1-inch cubes",
+            "amount": 0.75,
+            "unit": "cup",
+            "meta": [
+              "firm",
+              "rinsed",
+              "cut into 1-inch cubes"
+            ],
+            "measures": {
+              "us": {
+                "amount": 0.75,
+                "unitShort": "cups",
+                "unitLong": "cups"
+              },
+              "metric": {
+                "amount": 177.441,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          },
+          {
+            "id": 11477,
+            "aisle": "Produce",
+            "image": "zucchini.jpg",
+            "consistency": "SOLID",
+            "name": "zucchini",
+            "nameClean": "zucchini",
+            "original": "1 cup zucchini, julienned",
+            "originalName": "zucchini, julienned",
+            "amount": 1,
+            "unit": "cup",
+            "meta": [
+              "julienned"
+            ],
+            "measures": {
+              "us": {
+                "amount": 1,
+                "unitShort": "cup",
+                "unitLong": "cup"
+              },
+              "metric": {
+                "amount": 236.588,
+                "unitShort": "ml",
+                "unitLong": "milliliters"
+              }
+            }
+          }
+        ],
+        "id": 641559,
+        "title": "Dolsot Bibimbap",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://www.foodista.com/recipe/2522ZFCV/dolsot-bibimbap",
+        "image": "https://spoonacular.com/recipeImages/641559-556x370.jpg",
+        "imageType": "jpg",
+        "summary": "Dolsot Bibimbap might be just the <b>Korean</b> recipe you are searching for. For <b>$7.66 per serving</b>, this recipe <b>covers 61%</b> of your daily requirements of vitamins and minerals. This main course has <b>1860 calories</b>, <b>52g of protein</b>, and <b>40g of fat</b> per serving. Only a few people made this recipe, and 7 would say it hit the spot. From preparation to the plate, this recipe takes about <b>45 minutes</b>. A mixture of salt, kochujang vinegared pepper paste, short grain rice, and a handful of other ingredients are all it takes to make this recipe so tasty. To use up the bread bowls you could follow this main course with the <a href=\"https://spoonacular.com/recipes/six-banana-banana-bread-519932\">Six-Banana Banana Bread</a> as a dessert. It is a good option if you're following a <b>dairy free</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 93%</b>. This score is tremendous. Try <a href=\"https://spoonacular.com/recipes/bibimbap-191073\">Bibimbap</a>, <a href=\"https://spoonacular.com/recipes/bibimbap-564930\">Bibimbap</a>, and <a href=\"https://spoonacular.com/recipes/bibimbap-37433\">Bibimbap</a> for similar recipes.",
+        "cuisines": [
+          "Korean",
+          "Asian"
+        ],
+        "dishTypes": [
+          "lunch",
+          "main course",
+          "main dish",
+          "dinner"
+        ],
+        "diets": [
+          "dairy free"
+        ],
+        "occasions": [],
+        "instructions": "<ol><li>Marinate beef and tofu overnight in Korean barbecue marinade.</li><li>Cook rice and keep warm.</li><li>In sesame oil and a pinch of salt, saut carrots and zucchini until almost tender. If necessary add a bit more sesame oil and toss in the remaining vegetables, garlic and a pinch of sugar and continue to saut approximately 2 minutes, or until the vegetables are almost done (they will continue to cook in the dolsot or stone bowl)</li><li>Broil or barbecue the beef.</li><li>Pour a 1/2 - 1 teaspoon of sesame oil in the base of each stone bowl. Divide rice between the 4 stone bowls. Arrange all ingredients on top of the rice side by side around the bowl. Put a teaspoon (or more depending on taste) of the Korean chilli paste on top of the vegetables and in the middle of the bowl place an egg yolk. Pour a tablespoon of sesame seed oil around the edge of the bowl.</li><li>Place stone bowl on top of stove and on high heat leave for approx 5 minutes or until you can hear the rice popping and crackling.</li><li>Remove from heat and serve. Be very careful as the stone bowl will be extremely hot.</li></ol>",
+        "analyzedInstructions": [
+          {
+            "name": "",
+            "steps": [
+              {
+                "number": 1,
+                "step": "Marinate beef and tofu overnight in Korean barbecue marinade.Cook rice and keep warm.In sesame oil and a pinch of salt, saut carrots and zucchini until almost tender. If necessary add a bit more sesame oil and toss in the remaining vegetables, garlic and a pinch of sugar and continue to saut approximately 2 minutes, or until the vegetables are almost done (they will continue to cook in the dolsot or stone bowl)Broil or barbecue the beef.",
+                "ingredients": [
+                  {
+                    "id": 99000,
+                    "name": "korean bbq marinade",
+                    "localizedName": "korean bbq marinade",
+                    "image": "dark-sauce.jpg"
+                  },
+                  {
+                    "id": 4058,
+                    "name": "sesame oil",
+                    "localizedName": "sesame oil",
+                    "image": "sesame-oil.png"
+                  },
+                  {
+                    "id": 11583,
+                    "name": "vegetable",
+                    "localizedName": "vegetable",
+                    "image": "mixed-vegetables.png"
+                  },
+                  {
+                    "id": 11477,
+                    "name": "zucchini",
+                    "localizedName": "zucchini",
+                    "image": "zucchini.jpg"
+                  },
+                  {
+                    "id": 11124,
+                    "name": "carrot",
+                    "localizedName": "carrot",
+                    "image": "sliced-carrot.png"
+                  },
+                  {
+                    "id": 11215,
+                    "name": "garlic",
+                    "localizedName": "garlic",
+                    "image": "garlic.png"
+                  },
+                  {
+                    "id": 19335,
+                    "name": "sugar",
+                    "localizedName": "sugar",
+                    "image": "sugar-in-bowl.png"
+                  },
+                  {
+                    "id": 23572,
+                    "name": "beef",
+                    "localizedName": "beef",
+                    "image": "beef-cubes-raw.png"
+                  },
+                  {
+                    "id": 20444,
+                    "name": "rice",
+                    "localizedName": "rice",
+                    "image": "uncooked-white-rice.png"
+                  },
+                  {
+                    "id": 2047,
+                    "name": "salt",
+                    "localizedName": "salt",
+                    "image": "salt.jpg"
+                  },
+                  {
+                    "id": 16213,
+                    "name": "tofu",
+                    "localizedName": "tofu",
+                    "image": "tofu.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "bowl.jpg"
+                  }
+                ],
+                "length": {
+                  "number": 2,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 2,
+                "step": "Pour a 1/2 - 1 teaspoon of sesame oil in the base of each stone bowl. Divide rice between the 4 stone bowls. Arrange all ingredients on top of the rice side by side around the bowl. Put a teaspoon (or more depending on taste) of the Korean chilli paste on top of the vegetables and in the middle of the bowl place an egg yolk.",
+                "ingredients": [
+                  {
+                    "id": 4058,
+                    "name": "sesame oil",
+                    "localizedName": "sesame oil",
+                    "image": "sesame-oil.png"
+                  },
+                  {
+                    "id": 11583,
+                    "name": "vegetable",
+                    "localizedName": "vegetable",
+                    "image": "mixed-vegetables.png"
+                  },
+                  {
+                    "id": 1125,
+                    "name": "egg yolk",
+                    "localizedName": "egg yolk",
+                    "image": "egg-yolk.jpg"
+                  },
+                  {
+                    "id": 11819,
+                    "name": "chili pepper",
+                    "localizedName": "chili pepper",
+                    "image": "red-chili.jpg"
+                  },
+                  {
+                    "id": 0,
+                    "name": "base",
+                    "localizedName": "base",
+                    "image": ""
+                  },
+                  {
+                    "id": 20444,
+                    "name": "rice",
+                    "localizedName": "rice",
+                    "image": "uncooked-white-rice.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "bowl.jpg"
+                  }
+                ]
+              },
+              {
+                "number": 3,
+                "step": "Pour a tablespoon of sesame seed oil around the edge of the bowl.",
+                "ingredients": [
+                  {
+                    "id": 4058,
+                    "name": "sesame oil",
+                    "localizedName": "sesame oil",
+                    "image": "sesame-oil.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "bowl.jpg"
+                  }
+                ]
+              },
+              {
+                "number": 4,
+                "step": "Place stone bowl on top of stove and on high heat leave for approx 5 minutes or until you can hear the rice popping and crackling.",
+                "ingredients": [
+                  {
+                    "id": 20444,
+                    "name": "rice",
+                    "localizedName": "rice",
+                    "image": "uncooked-white-rice.png"
+                  }
+                ],
+                "equipment": [
+                  {
+                    "id": 404794,
+                    "name": "stove",
+                    "localizedName": "stove",
+                    "image": "oven.jpg"
+                  },
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "bowl.jpg"
+                  }
+                ],
+                "length": {
+                  "number": 5,
+                  "unit": "minutes"
+                }
+              },
+              {
+                "number": 5,
+                "step": "Remove from heat and serve. Be very careful as the stone bowl will be extremely hot.",
+                "ingredients": [],
+                "equipment": [
+                  {
+                    "id": 404783,
+                    "name": "bowl",
+                    "localizedName": "bowl",
+                    "image": "bowl.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalId": null,
+        "spoonacularSourceUrl": "https://spoonacular.com/dolsot-bibimbap-641559"
+      }
+    ]
+}
